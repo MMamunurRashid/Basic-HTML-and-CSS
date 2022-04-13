@@ -1,0 +1,70 @@
+h1,
+h2,
+h3 {
+  color: rgb(0, 107, 200);
+}
+h1 {
+  font-size: 32px;
+  font-family: arial;
+  text-transform: uppercase;
+  font-style: italic;
+}
+h2 {
+  font-size: 40px;
+  font-family: Arial;
+}
+h3 {
+  font-size: 28px;
+  font-family: arial;
+}
+h4 {
+  font-size: 24;
+  font-family: sans-serif;
+  text-align: center;
+}
+p {
+  font-size: 22px;
+  font-family: arial;
+  line-height: 1.5;
+}
+li {
+  font-size: 18px;
+  font-family: sans-serif;
+}
+footer p {
+  font-size: 10px;
+  font-family: "Times New Roman";
+  text-align: center;
+}
+
+/* article header p {
+  font-style: italic;
+} */
+#author {
+  font-style: italic;
+}
+.related-author {
+  font-size: 16px;
+  font-weight: bold;
+}
+.buletpoint {
+  list-style: none;
+}
+header {
+  background-color: #e2e2e2;
+}
+.main-header {
+  background-color: aqua;
+}
+aside {
+  background-color: #e2e2e2;
+  border-top: 5px solid aqua;
+  border-bottom: 5px solid aqua;
+}
+
+li:first-child {
+  font-weight: bold;
+}
+li:last-child {
+  font-style: italic;
+}
